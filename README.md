@@ -45,18 +45,4 @@ To run a workflow:
 4. Select the file and open it.
 5. Click the `Run` button to execute the workflow.
 
-## Contributing
 
-Contributions are welcome! If you have any improvements or additional projects to share, please create a pull request. Ensure that each new project includes a detailed README file and any necessary data files.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-For any questions or support, please contact [your-email@example.com].
-
----
-
-Enjoy exploring and analyzing data with Alteryx!
